@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "ava tests/*.tests.js"
+    "test": "ava tests/*.test.js --verbose"
   },
   "dependencies": {
     "ava": "^0.25.0"
