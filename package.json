@@ -1,0 +1,12 @@
+{
+  "name": "wippy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava tests/*.tests.js"
+  },
+  "dependencies": {
+    "ava": "^0.25.0"
+  }
+}
