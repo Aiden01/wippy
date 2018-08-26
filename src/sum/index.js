@@ -1,3 +1,3 @@
-exports.getSum = function() {
-    return 0
+exports.getSum = function(...numbers) {
+    return numbers.reduce((acc, curr) => acc + curr)
 }
