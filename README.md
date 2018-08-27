@@ -1,6 +1,6 @@
 # Javascript exercises for beginners
 
-This repo contains a lot of exercises for peoples who want to learn more about Javascript
+This repository contains a lot of exercises for peoples who want to learn more about Javascript
 
 
 ## Exercises
@@ -9,4 +9,4 @@ This repo contains a lot of exercises for peoples who want to learn more about J
 2. [Reverse me](src/reverse_me)
 3. [Capitalize me](src/capitalize_me)
 
-> French version [here](https://github.com/webd-eg/wippy)
+> Version française [ici](https://github.com/webd-eg/wippy)
