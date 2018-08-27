@@ -1,10 +1,10 @@
-# La fonction getTheNumbers
-Le but de cette fonction est de retourner tous les chiffres d'une chaine de caractères.
+# The getTheNumbers function
+The purpose of this function is to return all the digits of a string.
 
 ## Example:
 ```js
 getTheNumbers('1d4df6') // [1, 4, 6]
 ```
-## Comment faire l'exo?
-Pour le faire, il suffit d'éditer le fichier index.js ce trouvant dans ce même dossier.
-Puis, executer ``npm run test`` afin de faire les tests.
+## How to do the exercise?
+To complete this exercise, simply edit the index.js file in the same folder.
+Then run the ``npm run test`` to run the tests.
