@@ -1,10 +1,10 @@
-# La fonction getSum
-Le but de cette fonction est de prendre des nombres en paramètre et de retourner la somme des ces nombres.
+# The getSum function
+The purpose of this function is to take numbers as parameters and return the sum of these numbers.
 
 ## Example:
 ```js
-getSum(1, 2) // retourne 3
+getSum(1, 2) // 3
 ```
-## Comment faire l'exo?
-Pour le faire, il suffit d'éditer le fichier index.js ce trouvant dans ce même dossier.
-Puis, executer ``npm run test`` afin de faire les tests.
+## How to do the exercise?
+To complete this exercise, simply edit the index.js file in the same folder.
+Then run the ``npm run test`` to run the tests.

@@ -3,7 +3,7 @@ The purpose of this function is to return the inverse of the string passed as th
 
 ## Example:
 ```js
-reverseMe('hello world')// 'dlrow olleh' 
+reverseMe('hello world') // 'dlrow olleh' 
 ```
 ## How to do the exercise?
 To complete this exercise, simply edit the index.js file in the same folder.
