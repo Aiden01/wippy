@@ -1,5 +1,6 @@
-# Exercises en Javascript de Base
-Ce dépot contient plusieurs exercises de base pour ceux voulant apprendre le Javascript
+# Javascript exercises for beginners
+
+This repo contains a lot of exercises for peoples who want to learn more about Javascript
 
 
 ## Exercises
