@@ -1,4 +1,4 @@
-# La fonction capitalizeMe
+# The capitalizeMe function
 Le but de cette fonction est de retourner le contenu en majuscule de la chaine de caractères passées en paramètre.
 
 ## Example:
