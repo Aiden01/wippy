@@ -8,3 +8,5 @@ This repo contains a lot of exercises for peoples who want to learn more about J
 2. [Get the numbers](src/get_the_numbers)
 2. [Reverse me](src/reverse_me)
 3. [Capitalize me](src/capitalize_me)
+
+> French version [here](https://github.com/webd-eg/wippy)
