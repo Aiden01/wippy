@@ -7,3 +7,5 @@ Ce dépot contient plusieurs exercices de base pour ceux voulant apprendre le Ja
 2. [Get the numbers](src/get_the_numbers)
 2. [Reverse me](src/reverse_me)
 3. [Capitalize me](src/capitalize_me)
+
+> English version [here](https://github.com/WebD-EG/wippy/tree/en-version)
